@@ -1,0 +1,13 @@
+{
+  "name": "genpark-saga-orchestrator-compensating-transaction-skill",
+  "version": "1.0.0",
+  "description": "Saga Pattern orchestrator coordinating forward steps across microservices and autonomous agents with automated compensating reverse rollbacks.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "saga-pattern",
+    "compensating-transactions",
+    "distributed-transactions",
+    "workflow-orchestration"
+  ]
+}
